@@ -73,6 +73,3 @@ Landing page designed in Figma with a warm, playful brand identity.
 ## Author
 **Mais** — Software Engineer
 - LinkedIn: [www.linkedin.com/in/mais-alaramsheh-640b24232]
-
-## Acknowledgements
-Inspired by [Meraki Art Studio](https://merakiartstudio.ae)
